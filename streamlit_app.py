@@ -2,5 +2,7 @@ import streamlit as st
 
 st.title("alisya‼️")
 st.write(
-    "Let's start building! For help and inspiration, head over to [docs.streamlit.io](https://docs.streamlit.io/)."
+    "hallo nasayy."
 )
+
+st.image("https://github.com/alisya06/alisya/blob/main/views/20250424_124742.jpg")
