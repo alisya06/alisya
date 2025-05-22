@@ -6,7 +6,7 @@ st.subheader("nazlan naik meja tukang cimol")
 st.write("jangan jadi kaya nazlan ya!")
 
 #with col1:
-st.header("Aplikasi Mengecek Nilai Genap/Ganjil)
+st.header("Aplikasi Mengecek Nilai Genap/Ganjil")
 angka = st.number_input("Tulis sebuah Angka:", value=0, step=1)
 
 if (angka % 2) == 0:
